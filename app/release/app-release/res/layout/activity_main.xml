@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <Button android:id="@id/btn1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/text1" />
+    <Button android:id="@id/btn2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/text2" />
+    <Button android:id="@id/btn3" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/text3" />
+</LinearLayout>
